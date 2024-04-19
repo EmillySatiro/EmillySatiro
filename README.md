@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e00fdcc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=2e00fdcc&vCenter=true&center=true&width=1000&lines=Emily+Satiro;Sistemas+de+Informa%C3%A7ao;Universidade+Federal+do+Piau%C3%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=2e00fdcc&vCenter=true&center=true&width=1000&lines=Emilly+Sátiro;Sistemas+de+Informa%C3%A7ao;Universidade+Federal+do+Piau%C3%AD)](https://git.io/typing-svg)
 
 <!--
 2e00fdcc
@@ -34,7 +34,7 @@
 
 ***Linguagem com mais afinidade:*** C
 
-***Linguagem Preferida:*** Python
+***Linguagem Preferida:*** C
 
 ***Período da Universidade:*** [3/8]
 
