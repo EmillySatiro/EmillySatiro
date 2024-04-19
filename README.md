@@ -11,7 +11,7 @@
 
 > **Sistemas De Informação - UFPI, CSHNB**
 
-## Habilidades <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
+## Habilidades <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
 > **Respectivamente: C, Dart, Flutter,HTML, CSS, JavaScript, , Visual Studio Code**
 <p align="left">
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Sobre mim <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
+## Sobre mim <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
 <!--
 <img align="right" height="290em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/card.svg"/>
@@ -39,18 +39,18 @@
 ***Período da Universidade:*** [3/8]
 
 ***Atuando:*** Atualmente na Univerisdade
-## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
+## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
 [![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=JonasCGN&bg_color=0d111700&color=dbdbdb&line=2e00fdcc&point=140ad2cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## Estatística  <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg"/>
+## Estatística  <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&count_private=true&hide_border=true&title_color=140ad2cc&icon_color=140ad2cc&text_color=140ad2cc&bg_color=0d111700" alt="Jonas Cesar Github Stats" />
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&hide_border=true&title_color=2e00fdcc&text_color=2e00fdcc&bg_color=0d111700" />
 </div>
 
-## Wakatime <img align="center" height="30em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/coruja.svg">
+## Wakatime <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmillySatiro&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=2e00fdcc&text_color=2e00fdcc&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
