@@ -46,7 +46,7 @@
 ## Estatística  <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&count_private=true&hide_border=true&title_color=140ad2cc&icon_color=140ad2cc&text_color=140ad2cc&bg_color=0d111700" alt="Jonas Cesar Github Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&count_private=true&hide_border=true&title_color=140ad2cc&icon_color=140ad2cc&text_color=140ad2cc&bg_color=0d111700" alt="Emilly Sátiro Github Stats" />
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&hide_border=true&title_color=2e00fdcc&text_color=2e00fdcc&bg_color=0d111700" />
 </div>
 
