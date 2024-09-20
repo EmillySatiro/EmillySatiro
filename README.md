@@ -41,7 +41,7 @@
 ***Atuando:*** Atualmente na Univerisdade
 ## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
-[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmillySátiro&bg_color=0d111700&color=dbdbdb&line=2e00fdcc&point=140ad2cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmillySatiro&bg_color=0d111700&color=dbdbdb&line=2e00fdcc&point=140ad2cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Estatística  <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
