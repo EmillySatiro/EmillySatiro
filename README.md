@@ -13,10 +13,13 @@
 
 ## Habilidades <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
-> **Respectivamente: C, Dart, Flutter,HTML, CSS, JavaScript, , Visual Studio Code**
+### 🛠 Tecnologias & Ferramentas
+
+**C | Python | JavaScript | Docker | Banco de Dados | Visual Studio | Servidores**
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,flutter,html,css,js,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,docker,mysql,vstudio,linux" />
   </a>
 </p>
 
