@@ -28,15 +28,15 @@
 
 ***Nome:*** Emilly Sátiro
 
-***Idade:*** [18]
+***Idade:*** [19]
 
-***Interesses:*** Full-Stack, Back-End
+***Interesses:*** Full-Stack Development | Back-End | Visão Computacional | Aprendizagem de Máquina
 
-***Linguagem com mais afinidade:*** C
+***Linguagem com mais afinidade:*** C e python
 
 ***Linguagem Preferida:*** C
 
-***Período da Universidade:*** [3/8]
+***Período da Universidade:*** [5/8]
 
 ***Atuando:*** Atualmente na Univerisdade
 ## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
