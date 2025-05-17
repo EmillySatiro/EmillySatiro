@@ -13,15 +13,16 @@
 
 ## Habilidades <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
-### 🛠 Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
-**C | Python | JavaScript | Docker | Banco de Dados | Visual Studio | Servidores**
+**C | Python | JavaScript | Docker | Redis | PostgreSQL | SQLite | Visual Studio | Servidores**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,docker,mysql,vstudio,linux" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,docker,redis,postgres,sqlite,visualstudio,linux" />
   </a>
 </p>
+
 
 ## Sobre mim <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
