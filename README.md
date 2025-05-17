@@ -42,7 +42,8 @@
 
 ***Período da Universidade:*** [5/8]
 
-***Atuando:*** Atualmente na Univerisdade
+***Atuando:*** Atualmente desenvolvo pesquisa no **Projeto PIBIC**, focado na **Classificação e Contagem Automática de Leishmaniose Visceral Canina**, utilizando algoritmos de **Deep Learning** aplicados à análise de imagens biomédicas.
+Atuo  também como **Diretora de Ensino** na **LADS (Liga Acadêmica de Data Science)**, onde organizo projetos e atividades de ensino voltados à **Ciência de Dados** e **Desenvolvimento**.
 ## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 
 [![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmillySatiro&bg_color=0d111700&color=dbdbdb&line=2e00fdcc&point=140ad2cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
