@@ -15,11 +15,11 @@
 
 ###  Tecnologias & Ferramentas
 
-**C | Python | JavaScript | Docker | Redis | PostgreSQL | SQLite | Visual Studio Code | Servidores**
+**C | Python | JavaScript | Docker | Redis | PostgreSQL | SQLite | Servidores**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,docker,redis,postgres,sqlite,Visual Studio Code,linux" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,docker,redis,postgres,sqlite,linux" />
   </a>
 </p>
 
