@@ -56,7 +56,7 @@ Atuo também na **Diretoria de marketing** e no  desenvolvimento para Empresa ju
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&hide_border=true&title_color=2e00fdcc&text_color=2e00fdcc&bg_color=0d111700" />
 </div>
 
-## Wakatime <https://wakatime.com/badge/user/018d1c80-8150-4059-af47-fac89d3d2a3c.svg"/>
+## Wakatime src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EmillySatiro&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=140ad2cc&text_color=140ad2cc&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
