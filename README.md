@@ -40,7 +40,7 @@
 
 ***Linguagem Preferida:*** C
 
-***Período da Universidade:*** [5/8]
+***Período da Universidade:*** [7/8]
 
 ***Atuando:*** Atualmente desenvolvo pesquisa no **Projeto PIBIC**, focado na **Classificação e Contagem Automática de Leishmaniose Visceral Canina**, utilizando algoritmos de **Deep Learning** aplicados à análise de imagens biomédicas.
 Atuo  também como **Diretora de Ensino** na **LADS (Liga Acadêmica de Data Science)**, onde organizo projetos e atividades de ensino voltados à **Ciência de Dados** e **Desenvolvimento**.
