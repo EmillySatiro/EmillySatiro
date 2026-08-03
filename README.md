@@ -10,9 +10,9 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-Graduating in **Information Systems** at the **Federal University of Piauí (UFPI)**.
+Graduating in the **8th semester of Information Systems** at the **Federal University of Piauí (UFPI)**..
 
 Researcher in **Artificial Intelligence**, working with **Computer Vision**, **Deep Learning** and biomedical image analysis, focusing on the automatic classification of macrophages infected by *Leishmania infantum*.
 
@@ -22,7 +22,6 @@ Currently:
 
 - 🔬 **PIBIC Researcher** in Computer Vision and Deep Learning
 - 💻 **Full Stack Developer**
-- 🎓 **Teaching Director** at LADS (Data Science Academic League)
 - 🚀 **Developer and Marketing Director** at Juá Solutions
 
 ---
@@ -35,19 +34,19 @@ Currently:
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&theme=transparent&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=EmillySatiro&theme=transparent&hide_border=true"/>
 
 </div>
-
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillySatiro&theme=github-compact&hide_border=true&bg_color=00000000&color=2e00fdcc&line=2e00fdcc&point=140ad2cc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
