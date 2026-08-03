@@ -34,14 +34,13 @@ Currently:
 
 ---
 
-# 📊 GitHub Activity
 
 My GitHub activity and contributions can be viewed directly on my profile.
 
 <a href="https://github.com/EmillySatiro">
   <img src="https://img.shields.io/badge/GitHub-EmillySatiro-181717?style=for-the-badge&logo=github"/>
 </a>
----
+
 
 # 🌐 Connect with Me
 
