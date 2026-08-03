@@ -36,15 +36,11 @@ Currently:
 
 # 📊 GitHub Activity
 
-<div align="center">
+My GitHub activity and contributions can be viewed directly on my profile.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmillySatiro&theme=github_dark" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmillySatiro&theme=github_dark" />
-
-</div>
+<a href="https://github.com/EmillySatiro">
+  <img src="https://img.shields.io/badge/GitHub-EmillySatiro-181717?style=for-the-badge&logo=github"/>
+</a>
 ---
 
 # 🌐 Connect with Me
