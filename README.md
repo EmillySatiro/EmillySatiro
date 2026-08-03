@@ -6,7 +6,7 @@
 
 </div>
 
-> **Information Systems @ Federal University of Piauí (UFPI)**
+> **Information Systems @ UFPI | AI Researcher in Computer Vision & Deep Learning | Full Stack Developer**
 
 ---
 
@@ -34,12 +34,15 @@ Currently:
 
 ---
 
-
 # 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=EmillySatiro&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EmillySatiro&theme=github_dark" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EmillySatiro&theme=github_dark" />
 
 </div>
 ---
