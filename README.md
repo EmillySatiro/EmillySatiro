@@ -1,65 +1,68 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2e00fdcc&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e00fdcc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=2e00fdcc&vCenter=true&center=true&width=1000&lines=Emilly+Sátiro;Sistemas+de+Informa%C3%A7ao;Universidade+Federal+do+Piau%C3%AD)](https://git.io/typing-svg)
+<div align="center">
 
-<!--
-2e00fdcc
-140ad2cc
--->
-<!-- <img align="right" height="490em" src="https://raw.githubusercontent.com/gist/IagoraNz/38303f3586ca3d5909fae36466c85407/raw/21b583f46eeefcdc62929582932a39191d003350/githubcard.svg"/>
- -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=50&pause=1000&color=2e00fdcc&center=true&vCenter=true&width=1000&lines=Emilly+Sátiro;Full+Stack+Developer;AI+Researcher;Computer+Vision+%7C+Deep+Learning)](https://git.io/typing-svg)
 
-> **Sistemas De Informação - UFPI, CSHNB**
+</div>
 
-## Habilidades <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
+> **Information Systems @ Federal University of Piauí (UFPI)**
 
-###  Tecnologias & Ferramentas
+---
 
-**C | Python | JavaScript | Docker | Redis | PostgreSQL | SQLite | Servidores**
+# 👩‍💻 About Me
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,js,docker,redis,postgres,sqlite,linux" />
-  </a>
+Graduating in **Information Systems** at the **Federal University of Piauí (UFPI)**.
+
+Researcher in **Artificial Intelligence**, working with **Computer Vision**, **Deep Learning** and biomedical image analysis, focusing on the automatic classification of macrophages infected by *Leishmania infantum*.
+
+I have experience in **Full Stack Development**, REST APIs, relational databases, Docker, interface prototyping and software development for research and real-world applications.
+
+Currently:
+
+- 🔬 **PIBIC Researcher** in Computer Vision and Deep Learning
+- 💻 **Full Stack Developer**
+- 🎓 **Teaching Director** at LADS (Data Science Academic League)
+- 🚀 **Developer and Marketing Director** at Juá Solutions
+
+---
+
+# ⚙️ Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,react,fastapi,flask,docker,postgres,sqlite,linux,git,figma,tensorflow,pytorch,vscode" />
 </p>
 
+---
 
-## Sobre mim <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
-
-<!--
-<img align="right" height="290em" src="https://raw.githubusercontent.com/JonasCGN/JonasCGN/main/card.svg"/>
- -->
-
-***Nome:*** Emilly Sátiro
-
-***Idade:*** [20]
-
-***Interesses:*** Full-Stack Development | Back-End | Visão Computacional | Aprendizagem de Máquina
-
-***Linguagem com mais afinidade:*** C e python
-
-***Linguagem Preferida:*** C
-
-***Período da Universidade:*** [8/8]
-
-***Atuando:*** Atualmente desenvolvo pesquisa no **Projeto PIBIC**, focado na **Classificação e Contagem Automática de Leishmaniose Visceral Canina**, utilizando algoritmos de **Deep Learning** aplicados à análise de imagens biomédicas.
-Atuo  também como **Diretora de Ensino** na **LADS (Liga Acadêmica de Data Science)**, onde organizo projetos e atividades de ensino voltados à **Ciência de Dados** e **Desenvolvimento**.
-Atuo também na **Diretoria de marketing** e no  desenvolvimento para Empresa junio de Sistema de infomação (UPFI). 
-## Gráfico de Commits <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
-
-[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=EmillySatiro&bg_color=0d111700&color=dbdbdb&line=2e00fdcc&point=140ad2cc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Estatística  <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
+# 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&count_private=true&hide_border=true&title_color=140ad2cc&icon_color=140ad2cc&text_color=140ad2cc&bg_color=0d111700" alt="Emilly Sátiro Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&hide_border=true&title_color=2e00fdcc&text_color=2e00fdcc&bg_color=0d111700" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
-## Wakatime <img align="center" height="30em" src="https://raw.githubusercontent.com/EmillySatiro/EmillySatiro/main/Aranha.svg"/>
+<br>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EmillySatiro&theme=github-compact&hide_border=true&bg_color=00000000&color=2e00fdcc&line=2e00fdcc&point=140ad2cc)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🌐 Connect with Me
+
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=EmillySatiro&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=140ad2cc&text_color=140ad2cc&bg_color=0d1117" 
-    alt="Wakatime Stats" 
-  />
+
+<a href="mailto:sousasatiroclaraemilly@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/emilly-sátiro-94912a369" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2e00fdcc&height=120&section=footer"/>
