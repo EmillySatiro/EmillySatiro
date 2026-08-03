@@ -34,20 +34,14 @@ Currently:
 
 ---
 
-# 📊 GitHub Statistics
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EmillySatiro&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmillySatiro&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
-
-<br><br>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=EmillySatiro&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=EmillySatiro&theme=transparent&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🌐 Connect with Me
