@@ -12,7 +12,7 @@
 
 # About Me
 
-Graduating in the **8th semester of Information Systems** at the **Federal University of Piauí (UFPI)**..
+Graduating in the **8th semester of Information Systems** at the **Federal University of Piauí (UFPI)**.
 
 Researcher in **Artificial Intelligence**, working with **Computer Vision**, **Deep Learning** and biomedical image analysis, focusing on the automatic classification of macrophages infected by *Leishmania infantum*.
 
